@@ -149,7 +149,7 @@ def verify_line_integrity(original_file, split_files, duplicate_header):
         print(f"❌ Line integrity check failed! Difference: {diff:+,} lines")
 
 def main():
-    print("\nDeveloped by Jacob Wilson - Version 0.4")
+    print("\nDeveloped by Jacob Wilson - Version 0.1")
     print("dfirvault@gmail.com\n")
 
     # File picker
