@@ -11,7 +11,7 @@ A fast, terminal-based Python tool to split large CSV files by **file size (MB)*
 - 📊 **Accurate size splitting** — no file exceeds your limit
 - 🔍 **Data integrity check** — confirms all rows are preserved
 - 📜 **Progress bar (tqdm)** for live feedback
-<img width="1078" height="400" alt="image" src="https://github.com/user-attachments/assets/bf733005-6a1d-481e-927d-9578e8b9cc96" />
+<img width="1091" height="441" alt="image" src="https://github.com/user-attachments/assets/fae2f46e-9f8c-4f20-a96e-1ba7dbf4151c" />
 
 ---
 
