@@ -10,7 +10,7 @@ from tkinter import filedialog
 import sys
 
 # Increase CSV field size limit to handle large fields
-csv.field_size_limit(sys.maxsize)
+csv.field_size_limit(2147483647)
 
 # ───────────────────────────────────────────────
 # Developed by Jacob Wilson - Version 0.2
